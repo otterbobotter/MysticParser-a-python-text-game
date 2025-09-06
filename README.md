@@ -13,7 +13,7 @@ rooms
 items
 and bags
 rooms are just objects that store the name of the room and some discriptive text
-items are well items, you can give them an infinite number of arguments and live your best life (in my game items are the base for the NPC's, never would I ever thing a 
+items are well items, you can give them an infinite number of arguments and live your best life (in my game items are the base for the NPC's, never would I ever think a 
 comment I would have to put in would be "This is to stop you from picking up NPC's")
 Bags hold items, then just hold items
 
