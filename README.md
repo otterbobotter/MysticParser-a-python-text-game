@@ -21,6 +21,8 @@ this is all tyed together by @when
 From my basic understanding, the @when thing is just a callout that says "hey! the next function that gets difined.... ya through it in the main game loop ples"
 as an example 
 
+###### i wrote this at 2:something am....typos will be a thing, will i fix them.... probaly not
+
 
 ```
 @when('take ITEM')
